@@ -14,5 +14,5 @@
         app:according="Width">
 
     </ir.steponit.squareview.SquareView>
-    
+
 </android.support.constraint.ConstraintLayout>
